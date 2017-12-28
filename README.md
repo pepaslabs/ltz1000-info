@@ -18,7 +18,7 @@ However, members of the community have measured different results:
 
 ![](/media/resistors-table-2.png)
 
-Here's the same data, but expressed as the importance of each resistor relative to the importance of the R4/R5 ratio.  I.e., according to zlymex, drift in R1 is only 15% as important as the drift in R4/R5.
+Here's the same data, but expressed as the importance of each resistor relative to the importance of the R4/R5 ratio (i.e. the data is normalized against R4/R5).  E.g. according to zlymex, drift in R1 is only 15% as important as the drift in R4/R5.
 
 ![](/media/resistors-table-3.png)
 
