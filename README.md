@@ -35,4 +35,6 @@ Note: the above data does not pertain to circuits which feature the "R60" resist
 
 # Circuits from the community
 
-https://indico.cern.ch/event/162546/contributions/241005/attachments/190666/267612/Current_measurement_POCPA.pdf
+A circuit from a CERN presentation:
+- https://indico.cern.ch/event/162546/contributions/241005/attachments/190666/267612/Current_measurement_POCPA.pdf
+- linked from here: http://www.eevblog.com/forum/metrology/ultra-precision-reference-ltz1000/msg447655/#msg447655
